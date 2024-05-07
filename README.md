@@ -1,5 +1,6 @@
 # SQL-Rockbuster Video Rental Company
 Data-driven presentation to answer the business questions was created for the Management Board, Data dictionary and SQLs used to answer the key questions were shared to the technical team.
+
 ![image](https://github.com/NegarNikeghbali/SQL-RockbusterVideoRental/assets/169043785/d11b1d8d-b996-438f-9fdd-bc9e855ccc57)
 ### Introduction
 ![image](https://github.com/NegarNikeghbali/SQL-RockbusterVideoRental/assets/169043785/61c1ee9e-0543-4a00-a189-98267b727086)
