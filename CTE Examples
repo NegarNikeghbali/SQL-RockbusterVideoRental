@@ -63,19 +63,19 @@ LIMIT 10
 ## Revenue and Title Counts per Genre
 
 WITH GenreRevenue AS (
-    SELECT E.name AS genre_name, SUM(amount) AS total_amount_paid
-    FROM payment A
-    INNER JOIN rental B ON A.rental_id = B.rental_id
-    INNER JOIN inventory C ON B.inventory_id = C.inventory_id
-    INNER JOIN film_category D ON C.film_id = D.film_id
-    INNER JOIN category E ON D.category_id = E.category_id
-    GROUP BY E.name
+SELECT E.name AS genre_name, SUM(amount) AS total_amount_paid
+FROM payment A
+INNER JOIN rental B ON A.rental_id = B.rental_id
+INNER JOIN inventory C ON B.inventory_id = C.inventory_id
+INNER JOIN film_category D ON C.film_id = D.film_id
+INNER JOIN category E ON D.category_id = E.category_id
+GROUP BY E.name
 ),
 GenreTitleCounts AS (
-    SELECT B.name AS genre_name, COUNT(DISTINCT film_id) AS title_count
-    FROM film_category A
-    INNER JOIN category B ON A.category_id = B.category_id
-    GROUP BY B.name
+SELECT B.name AS genre_name, COUNT(DISTINCT film_id) AS title_count
+FROM film_category A
+INNER JOIN category B ON A.category_id = B.category_id
+GROUP BY B.name
 )
 SELECT gr.genre_name, gr.total_amount_paid, gtc.title_count
 FROM GenreRevenue gr
