@@ -4,6 +4,8 @@ Data-driven presentation to answer the business questions was created for the Ma
 
 
 ### Introduction
+![Uploading image.png…]()
+
 
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 
