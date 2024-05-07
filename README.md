@@ -24,4 +24,4 @@ Rockbuster relational database management system and Postgre SQL was used for th
 
 ## Visualizations
 ![image](https://github.com/NegarNikeghbali/SQL-RockbusterVideoRental/assets/169043785/c5ee4342-b879-4b0c-afa6-7240685544f8)
-Take a look at ![link]the https://public.tableau.com/app/profile/negar.nikeghbali/viz/Rockbustergeographicaldistributionofcustomers/Sheet1 on Tableau Public.
+Take a look at ![[link](https://public.tableau.com/app/profile/negar.nikeghbali/viz/Rockbustergeographicaldistributionofcustomers/Sheet1)] on Tableau Public.
