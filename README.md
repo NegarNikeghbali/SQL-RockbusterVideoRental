@@ -1,10 +1,10 @@
 # SQL-Rockbuster Video Rental Company
 Data-driven presentation to answer the business questions was created for the Management Board, Data dictionary and SQLs used to answer the key questions were shared to the technical team.
 
-![image](https://github.com/NegarNikeghbali/SQL-RockbusterVideoRental/assets/169043785/c97994b2-520c-47c2-97ca-7b196f4fac18)
+![image](https://github.com/NegarNikeghbali/SQL-RockbusterVideoRental/assets/169043785/d11b1d8d-b996-438f-9fdd-bc9e855ccc57)
 
 ### Introduction
-![image](https://github.com/NegarNikeghbali/SQL-RockbusterVideoRental/assets/169043785/c691fc8c-1fff-48e5-908d-7c6a1d3099fb)
+![image](https://github.com/NegarNikeghbali/SQL-RockbusterVideoRental/assets/169043785/e0ac646e-99c7-461f-a781-9041c4d937be)
 
 Rockbuster Stealth LLC is a movie rental company that used to have stores around the world. Facing stiff competition from streaming services such as Netflix and Amazon Prime, the Rockbuster Stealth management team is planning to use its existing movie licenses to launch an online video rental service in order to stay competitive.
 
